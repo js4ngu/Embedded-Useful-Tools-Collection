@@ -1,6 +1,5 @@
 #include <Wire.h>
 
-// 상수 정의
 const int SERIAL_BITRATE = 9600; // 시리얼 통신 비트레이트
 const int SCAN_DELAY_MS = 5000;  // 검색 후 대기 시간(ms)
 
